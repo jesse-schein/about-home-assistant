@@ -23,10 +23,10 @@ PwC
 - Home Assistant
 - IoT & ESP32
 
+---
 
 
-
-# Home Asistant
+# Home Assistant
 <style>
 p {columns: 2; font-size: 28px;}
 </style>
@@ -81,11 +81,11 @@ No Code OR
 <style>
 ul {columns: 2;}
 </style>
-- Home Assistant Operations System
+- Home Assistant Operating System
 - Run in a docker container
-- Run manually in python (dont do this)
+- Run manually in python (don't do this)
 - Raspberry Pi 3B+/4
-- Any cheapo PC/Server
+- Any cheap PC/Server
 - Virtual
 
 ---
@@ -98,7 +98,7 @@ ul {columns: 2;}
 
 ---
 
-### Jesse's Reccomended Devices
+### Jesse's Recommended Devices
 
 <style>
     table, th, td {
@@ -174,7 +174,7 @@ ul {columns: 2;}
 - Low Powered programmable 
 - Used in many consumer products
 - Over-The-Air updates
-- No code requred
+- No code required
     - YAML to C++
     - Flash with Tasmota (web ui)
 
