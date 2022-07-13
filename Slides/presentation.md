@@ -202,4 +202,14 @@ ul {columns: 2;}
 
 ---
 
+### ESPHome by Home Assistant
+
+- No code based way to program custom devices
+- YAML based
+- Code Sharing
+- Many examples online
+- Can pretty much use any sensor
+
+---
+
 ### Demo Time
